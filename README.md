@@ -1,0 +1,4 @@
+Wow60Level
+==========
+
+NoDetail
